@@ -4,22 +4,22 @@ PUDT	3200	A	Core Studio Collaboration: CT	W	1900 to 2140	D	1002	Browning
 | Class date | Which | Description | Assignment |
 |----------|:----|:--------|:----|
 | X/X  | Lab    | Introductions, Technical meet-and-greet 										| Assignment One: Intro Statements |
-| 1/25 | Studio | Intro Statement Presentations, The bad old days of computing 					| N/A |
+| 1/25 | Studio | Intro Statement Presentations, Creative Technology Overview 					| Reading: Art of Innovation Chapter 6 |
 | X/X  | Lab    | The Mac Terminal, moving around, Bash scripting, ASCII art 					| N/A |
 | X/X  | Lab    | CSV, Databases, source code 													| N/A |
-| 2/1  | Studio | A Less Brief History of Computing 											| Present: Famous machines and humans |
+| 2/1  | Studio | Invention & Innovation			  											| Reading: Hackers Chapter 10. Assignment Two: Museum Visit & Documentation |
 | X/X  | Lab    | Browser-fu, View Source, Chrome Dev Tools, Sublime Text Copy-paste magic 		| N/A |
 | X/X  | Lab    | GET & Post Requests, Browser hacking											| N/A |
-| 2/8  | Studio | Collections and Curiosities													| N/A |
+| 2/8  | Studio | Collection & Curiosities														| Reading: Ghost in the Wires Chapter 2, 9 |
 | X/X  | Lab    | Web Scraping																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
-| 2/15 | Studio | Rules of the Road																| N/A |
+| 2/15 | Studio | Intervention & Subversion														| Dealers of Lightning Chapter 16, Masters of Doom Chapter 3  |
 | X/X  | Lab    | decription																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
-| 2/22 | Studio | Computer graphics																| N/A |
+| 2/22 | Studio | Computer Graphics & Visualization												| N/A |
 | X/X  | Lab    | decription																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
-| 3/1  | Studio | Interaction																	| N/A |
+| 3/1  | Studio | Interface & Interaction														| N/A |
 | X/X  | Lab    | decription																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
 | 3/8  | Studio | Work session																	| N/A |
@@ -31,32 +31,32 @@ PUDT	3200	A	Core Studio Collaboration: CT	W	1900 to 2140	D	1002	Browning
 | 3/22 | Studio | NO CLASS (SPRING BREAK)														| N/A |
 | X/X  | Lab    | decription																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
-| 3/29 | Studio | description																	| N/A |
+| 3/29 | Studio | XXXXXXXXXXXXXXXX																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
-| 4/5  | Studio | description																	| N/A |
+| 4/5  | Studio | XXXXXXXXXXXXXXXX																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
-| 4/12 | Studio | description																	| N/A |
+| 4/12 | Studio | XXXXXXXXXXXXXXXX																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
-| 4/19 | Studio | description																	| N/A |
+| 4/19 | Studio | XXXXXXXXXXXXXXXX																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
-| 4/26 | Studio | description																	| N/A |
+| 4/26 | Studio | XXXXXXXXXXXXXXXX																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
-| 5/3  | Studio | description																	| N/A |
+| 5/3  | Studio | XXXXXXXXXXXXXXXX																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
-| 5/10 | Studio | description																	| N/A |
+| 5/10 | Studio | XXXXXXXXXXXXXXXX																	| N/A |
 | X/X  | Lab    | decription																	| N/A |
 
 ## Assignment One: Intro Statement
 
 In this assignment, you will produce and perform a presentation describing yourself in the context of creative technology based using the framework below. The presentation is not to exceed fifteen minutes.
 
-Each below number should correspond to a slide in your presentation, and each slide should contain a maximum of FIVE WORDS or less (except #7), though you should answer the questions verbally in your presentation. Photographs or images are highly encouraged on as many slides as you can. You will present your intro statement presentation in class on Wednesday, January 25. You will be graded on completeness, adherence to the framework, creativity in form and presentation, but not on content. Be honest, as your instructors will use these presentations to help tailor your semester!
+Each below number should correspond to a slide in your presentation, and each slide should contain a maximum of FIVE WORDS or less (except the museum list), though you should answer the questions verbally in your presentation. Photographs or images are highly encouraged on as many slides as you can. You will present your intro statement presentation in class on Wednesday, January 25. You will be graded on completeness, adherence to the framework, creativity in form and presentation, but not on content. Be honest, as your instructors will use these presentations to help tailor your semester!
 
 ### Identify yourself
 
