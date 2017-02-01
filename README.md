@@ -82,3 +82,57 @@ Each below number should correspond to a slide in your presentation, and each sl
 11. What do you wish you knew how to code or build?
 12. Who do you look up to creatively or technically?
 
+## Assignment Two: In Person Collection Visualization
+
+Submission One: Submit Museum Choice to Visit
+	- Each member of the class must announce their choice of museum, and have museum approved by instructor.
+	- Each member of class will have to pick a different institution.
+	- Then visit it (after approved by instructor)
+
+Submission Two: Documentation of Visit
+	- Your name, "IN PERSON MATERIALS", Date and time of visit ARRIVAL, and DEPARTURE
+	- Photos
+	  - At least one photo of you pointing to something of interest
+	  - A photo of the entrance or whole building (or as much of it as you can fit in a pic)
+	  - A representative photo of your selected collection, gallery or exhibition.
+	  - A photo or series of photos of the object you selected from that collection. 
+	- Receipts or tickets stubs, stickers
+	- Any collected ephemera you can (exhibition pamphlets or (free) catalogs... you don't need to buy catalogs!)
+	- Any recorded notes on visit
+
+Submission Three: Design a static infographic of your visit
+	- Do not display the name of the institution on your infographic
+	- NO INTERACTIVITY or CODE
+	- NO MOTION or ANIMATION
+	- no restrictions on size, color
+	- Your visualization should communicate:
+	  1) The entire institution in some way (ie. the entire building or buildings).
+	  2) A list of distinct galleries, collections and/or exhibitions on display at the time of your visit. (list them by name)
+	  3) A particular collection or special exhibition (with more detail and description of its scope)
+	  4) A particular object, artifact or item in the collection indicated in #3.
+	     - Include all "tombstone" or didactic information you can
+
+	  Strive to include in some way both Qualitative and Quantitative Data
+
+Submission Four: Display your infographics in Studio
+	- 10-15 minute Class discussion around each one.
+	- 10 minute presentation by student. Presentation must include ONLY
+	  - Images or reproductions of the infographic itself, either in whole or in part
+	  - Photos, notes and/or items collected during your visit.
+
+Submission Five: Process documentation
+	- Sketch of three infographic ideas
+	- Three or more in-progress images of your infographic
+
+Grading: Assignment Two will be graded on the following criteria:
+
+1) Completeness
+0-20
+2) Creativity in Data Collection
+0-20
+3) Graphic Presentation
+0-20
+4) Creativity in Display of Data
+0-20
+5) Presentation
+0-20
