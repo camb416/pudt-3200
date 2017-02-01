@@ -168,7 +168,7 @@ Feb 1, 2017: Request Museum in class. Priority by random selection. No tradesies
 Feb 8, 2017: Allocated time for question & answer/1-on-1 creative review
 Feb 15, 2017: Present work (printed & mounted)
 
-Mid Term Project
+## Mid Term Project
 
 In this self-directed project, students will seek out, capture, and re-contextualize image and artifact data.
 
@@ -190,6 +190,8 @@ Part Four: Create an interactive visualization of your material.
 
 Part Five: Write a one-page abstract about your visualizations.
   - Include your motivations and learnings, as well as emergent behavior ot qualities of the information.
+
+### Schedule
 
  Feb 1, 2017: Receive assignment
  Feb 22, 2017: Show your Part Two, Part Three work: informal presentations
