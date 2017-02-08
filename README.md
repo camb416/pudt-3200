@@ -3,54 +3,22 @@ PUDT	3200	A	Core Studio Collaboration: CT	W	1900 to 2140	D	1002	Browning
 
 | Class date | Which | Description | Assignment |
 |----------|:----|:--------|:----|
-| X/X  | Lab    | Introductions, Technical meet-and-greet 										| Assignment One: Intro Statements |
 | 1/25 | Studio | Intro Statement Presentations, Creative Technology Overview 					| Reading: Art of Innovation Chapter 6 |
-| X/X  | Lab    | The Mac Terminal, moving around, Bash scripting, ASCII art 					| N/A |
-| X/X  | Lab    | CSV, Databases, source code 													| N/A |
 | 2/1  | Studio | Invention & Innovation			  											| Reading: Hackers Chapter 10. Assignment Two: Museum Visit & Documentation |
-| 2/2  | Lab    | Browser-fu, View Source, Chrome Dev Tools, Sublime Text Copy-paste magic 		| N/A |
-| 2/5  | Lab    | GET & Post Requests, Browser hacking											| N/A |
 | 2/8  | Studio | Intervention & Subversion														| Reading: Ghost in the Wires Chapter 2, 9 |
-| X/X  | Lab    | Web Scraping																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 2/15 | Studio | Collection & Curiosities														| Dealers of Lightning Chapter 16, Masters of Doom Chapter 3  |
-| X/X  | Lab    | decription																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 2/22 | Studio | Computer Graphics & Visualization												| N/A |
-| X/X  | Lab    | decription																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 3/1  | Studio | Interface & Interaction														| N/A |
-| X/X  | Lab    | decription																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 3/8  | Studio | Work session																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 3/15 | Studio | Mid-term assignment presentations												| N/A |
-| X/X  | Lab    | decription																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 3/22 | Studio | NO CLASS (SPRING BREAK)														| N/A |
-| X/X  | Lab    | decription																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 3/29 | Studio | XXXXXXXXXXXXXXXX																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 4/5  | Studio | XXXXXXXXXXXXXXXX																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 4/12 | Studio | XXXXXXXXXXXXXXXX																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 4/19 | Studio | XXXXXXXXXXXXXXXX																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 4/26 | Studio | XXXXXXXXXXXXXXXX																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 5/3  | Studio | XXXXXXXXXXXXXXXX																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 | 5/10 | Studio | XXXXXXXXXXXXXXXX																	| N/A |
-| X/X  | Lab    | decription																	| N/A |
 
 ## Assignment One: Intro Statement
 
