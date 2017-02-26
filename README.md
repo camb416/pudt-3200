@@ -3,22 +3,22 @@ PUDT	3200	A	Core Studio Collaboration: CT	W	1900 to 2140	D	1002	Browning
 
 | Class date | Which | Description | Assignment |
 |----------|:----|:--------|:----|
-| 1/25 | Studio | Intro Statement Presentations, Creative Technology Overview 					| Reading: Art of Innovation Chapter 6 |
+| 1/25 | Studio | Intro Statement Presentations, Creative Technology Overview 					| Reading for next week: Art of Innovation Chapter 6 |
 | 2/1  | Studio | Intervention			  														| Reading: Hackers Chapter 10. Assignment Two: Museum Visit & Documentation |
-| 2/8  | Studio | Commercialization & Personalization, 1-on-1s									|  N/A |
-| 2/15 | Studio | Assignment Three In Class Discussion											| Reading: Ghost in the Wires Chapter 2, 9 |
-| 2/22 | Studio | Systems & Subversion															| Assignment Four given |
-| 3/1  | Studio | Assignment Four Presentations, Affordances									| Dealers of Lightning Chapter 16|
-| 3/8  | Studio | Work session																	| Masters of Doom Chapter 3 |
-| 3/15 | Studio | Mid-term assignment presentations												| N/A |
-| 3/22 | Studio | NO CLASS (SPRING BREAK)														| N/A |
-| 3/29 | Studio | XXXXXXXXXXXXXXXX																| N/A |
-| 4/5  | Studio | XXXXXXXXXXXXXXXX																| N/A |
-| 4/12 | Studio | XXXXXXXXXXXXXXXX																| N/A |
-| 4/19 | Studio | XXXXXXXXXXXXXXXX																| N/A |
-| 4/26 | Studio | XXXXXXXXXXXXXXXX																| N/A |
-| 5/3  | Studio | XXXXXXXXXXXXXXXX																| N/A |
-| 5/10 | Studio | XXXXXXXXXXXXXXXX																| N/A |
+| 2/8  | Studio | Commercialization & Personalization, 1-on-1s									| Assignment Three feedback provided |
+| 2/15 | Studio | Assignment Three In Class Discussion											| Reading for next week: Ghost in the Wires Chapter 2, 9 |
+| 2/22 | Studio | Systems & Subversion, Data Storytelling										| Assignment Four given (due following week) |
+| 3/1  | Studio | Assignment Four Presentations, Affordances									| Reading for next week: Dealers of Lightning Chapter 16|
+| 3/8  | Studio | Work session																	| Reading for next week: Masters of Doom Chapter 3 |
+| 3/15 | Studio | Mid-term assignment presentations												| Final Project Outline and Assignments Five, Six Seven outlined |
+| 3/22 | Studio | NO CLASS (SPRING BREAK)														| TBD |
+| 3/29 | Studio | The Artist's Statement														| Assignment six for next week |
+| 4/5  | Studio | Exhibitions																	| Assignment seven for next week |
+| 4/12 | Studio | Spectacle																		| Final project progress due for next week |
+| 4/19 | Studio | Work session, review final project progress with instructor					| Present final project draft next week |
+| 4/26 | Studio | Present final project drafts													| TBD |
+| 5/3  | Studio | Problem solving and improvisation												| Plan for opening |
+| 5/10 | Studio | Final projects exhibition and discussion										| N/A |
 
 ## Assignment One: Intro Statement
 
@@ -142,6 +142,28 @@ In this assignment, students will visit a museum and document their visit in an 
 
 **Feb 15, 2017:** Present work (printed & mounted).
 
+## Assignment Four
+
+In this group assignment, students will use web scraping technologies to grab data from the New School Student Work page and tell stories about one of three types of data in each listing: Students' major, Project titles, student names and project thumbnail images.
+
+Each group will scrape the page to generate their own local data files, and then use creative technology tools and techniques to help express findings about the content listed on the New School website.
+
+Students should present their work in class and use screenshots to describe their process as well as tell their 'data story'.
+
+### Associated Lab Work
+
+- JQuery
+- Chrome DevTools
+- NodeJS with Request and Cheerio
+- Sublime Text
+- Processing
+
+### Schedule
+
+**Feb 22, 2017:** Assignment given
+
+**March 1, 2017:** Assignments presented
+
 ## Mid Term Project
 
 In this self-directed project, students will seek out, capture, and re-contextualize image and artifact data.
@@ -189,3 +211,14 @@ In this self-directed project, students will seek out, capture, and re-contextua
 
 5) Depth of Qualitative and/or Quantitative Data 20%
 
+## Assignment Five: Artist's Statement
+
+Description TBD
+
+## Assignment Six: Artist profile and gallery visit
+
+Description TBD
+
+## Assignment Seven: Expression
+
+Description TBD
