@@ -1,5 +1,20 @@
 PUDT	3200	A	Core Studio Collaboration: CT	W	1900 to 2140	D	1002	Browning
 
+# Core Studio Collaboration: Creative Technology
+
+
+## Overview
+
+This class consists of lectures, in-class discussions and project work surrounding Creative Technology as a discipline. The first half of the class sessions will focus on computation in context, including history of digital computing and the stories and personalities that have imbued creativity into technology development in the past 70 years.
+
+In transitioning to project work, emphasis will be placed on data collection and visualization, with special attention paid to personal expression and investigation of data stories. 1-on-1 work sessions with the instructor will provide critique on technique, use of visual language, and provide feedback on appropriate balance of expression and invention.
+
+At the end of the semester, students will exhibit their project and/or assignment work in an exhibition that is planned and organized by the students themselves, with the support of the instructor.
+
+## Learning 
+
+
+## Schedule
 
 | Class date | Description | Assignment |
 |----------|:----|:--------|:----|
@@ -20,7 +35,7 @@ PUDT	3200	A	Core Studio Collaboration: CT	W	1900 to 2140	D	1002	Browning
 | 5/3  | Problem solving and improvisation												| Plan for opening |
 | 5/10 | Final projects exhibition and discussion										| N/A |
 
-## List of Assignments
+## Assignments
 
 - [Assignment One: Intro Statement](assignment1.md)
 - [Assignment Two: Innovation Presentation](assignment2.md)
