@@ -19,13 +19,13 @@ Students will come away with a broad understanding of the history of computing a
 
 | Class date | Description | Assignment |
 |----------|:----|:--------|:----|
-| 1/25 | Intro Statement Presentations, Creative Technology Overview 	| Reading for next week: [The Idea Factory: Bell Labs and the Great Age of American Innovation](https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797) Chapter 6 |
-| 2/1  | Intervention			  										| Reading: Hackers Chapter 10. Assignment Two: Museum Visit & Documentation |
+| 1/25 | Intro Statement Presentations, Creative Technology Overview 	| Reading for next week: Gertner, [The Idea Factory: Bell Labs and the Great Age of American Innovation](https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797) Chapter 6 |
+| 2/1  | Intervention			  										| Reading: Levy, [Hackers: Heroes of the Computer Revolution](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396) Chapter 10. Assignment Two: Museum Visit & Documentation |
 | 2/8  | Commercialization & Personalization, 1-on-1s					| Assignment Three feedback provided |
-| 2/15 | Assignment Three In Class Discussion							| Reading for next week: Ghost in the Wires Chapter 2, 9 |
+| 2/15 | Assignment Three In Class Discussion							| Reading for next week: Mitnick, [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729) Chapter 2, 9 |
 | 2/22 | Systems & Subversion, Data Storytelling						| Assignment Four given (due following week) |
-| 3/1  | Assignment Four Presentations, Affordances						| Reading for next week: Dealers of Lightning Chapter 16|
-| 3/8  | Work session													| Reading for next week: Masters of Doom Chapter 3 |
+| 3/1  | Assignment Four Presentations, Affordances						| Reading for next week: [Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age](https://www.amazon.com/Dealers-Lightning-Xerox-PARC-Computer/dp/0887309895) Chapter 16|
+| 3/8  | Work session													| Reading for next week: Kushner, [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155) Chapter 3 |
 | 3/15 | Mid-term assignment presentations								| Final Project Outline and Assignments Five, Six Seven outlined |
 | 3/22 | NO CLASS (SPRING BREAK)										| TBD |
 | 3/29 | The Artist's Statement											| Assignment six for next week |
