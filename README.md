@@ -1,9 +1,21 @@
 PUDT	3200	A	Core Studio Collaboration: CT	W	1900 to 2140	D	1002	Browning
 
+**Parsons School of Design**  
+BFA in Design & Techology
+
 # Core Studio Collaboration: Creative Technology
+PUDT-3200 A 
+Spring 2017  
+Wednesdays 7p–9:40p  
+Room 1002, 6 E 16th St
+
+**Instructor**
+Cameron Browning
+browninc@newschool.edu
+Office hours by appointment or email. Specific instructions provided in class
 
 
-## Overview
+## Course Description
 
 This class consists of lectures, in-class discussions and project work surrounding Creative Technology as a discipline. The first half of the class sessions will focus on computation in context, including history of digital computing and the stories and personalities that have imbued creativity into technology development in the past 70 years.
 
@@ -49,9 +61,9 @@ Students will come away with a broad understanding of the history of computing a
 - [Final Project: TBD](finalproject.md)
 
 ## Grading Standards
-[What follows is Parsons’ grading standards. You should articulate your own policy for work taking other forms (e.g. presentations, critiques, visuals.) Use clear criteria, specifying how both you and your students will know whether they have achieved the learning outcomes].
 
-Undergraduate
+All presentations should be submitted via email following their presentation in class and grades will be provided in a timely manner to students. Printed project work should be ready at the start of the class.
+
 A student’s final grades and GPA are calculated using a 4.0 scale. Please note that while both are listed here, the 4.0 scale does not align mathematically with the numeric scale based on percentages of 100 points.
 
 A  [4.0; 95 – 100%]
@@ -86,22 +98,6 @@ Probation level though passing for credit
 F  [0.0; 0 – <60%]
 Failure, no credit
 
-Graduate
-
-A	Work of exceptional quality 
-A-	Work of high quality
-B+	Very good work
-B 	Good work; satisfies course requirements 
-Satisfactory completion of a course is considered to be a grade of B or higher.
-B-	Below-average work
-C+ 	Less than adequate work
-C 	Well below average work
-C-	Poor work; lowest possible passing grade
-F	Failure
-GM	Grade missing for an individual
-
-Grades of D are not used in graduate level courses.
-
 Grade of W
 The grade of W may be issued by the Office of the Registrar to a student who officially withdraws from a course within the applicable deadline. There is no academic penalty, but the grade will appear on the student transcript. A grade of W may also be issued by an instructor to a graduate student (except at Parsons and Mannes) who has not completed course requirements nor arranged for an Incomplete.
 
@@ -111,11 +107,9 @@ The grade of Z is issued by an instructor to a student who has not attended or n
 Grades of Incomplete 
 The grade of I, or temporary incomplete, may be granted to a student under unusual and extenuating circumstances, such as when the student’s academic life is interrupted by a medical or personal emergency. This mark is not given automatically but only upon the student’s request and at the discretion of the instructor. A Request for Incomplete form must be completed and signed by student and instructor. The time allowed for completion of the work and removal of the “I” mark will be set by the instructor with the following limitations: [You should include one the following standards, depending on the level of your course].
 
-Undergraduate students: Work must be completed no later than the seventh week of the following fall semester for spring or summer term incompletes and no later than the seventh week of the following spring semester for fall term incompletes. Grades of “I” not revised in the prescribed time will be recorded as a final grade of “F” by the Office of the Registrar. 
+Work must be completed no later than the seventh week of the following fall semester for spring or summer term incompletes and no later than the seventh week of the following spring semester for fall term incompletes. Grades of “I” not revised in the prescribed time will be recorded as a final grade of “F” by the Office of the Registrar. 
 
-Graduate students: Work must be completed no later than one year following the end of the class. Grades of “I” not revised in the prescribed time will be recorded as a final grade of “WF” (for Parsons and Mannes graduate students) or “N” (for all other graduate students) by the Office of the Registrar. The grade of “N” does not affect the GPA but does indicate a permanent incomplete. 
-
-Divisional, Program and Class Policies [You should include the following headings with the recommended text. In addition, you should include any other policies you may have.]
+## Divisional, Program and Class Policies
 
 ● Responsibility 
 Students are responsible for all assignments, even if they are absent.  Late assignments, failure to complete the assignments for class discussion and/or critique, and lack of preparedness for in-class discussions, presentations and/or critiques will jeopardize your successful completion of this course.  
