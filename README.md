@@ -30,7 +30,7 @@ Students will come away with a broad understanding of the history of computing a
 ## Schedule
 
 | Class date | Description | Assignment |
-|----------|:----|:--------|:----|
+|----------|:----|:----|
 | 1/25 | Intro Statement Presentations, Creative Technology Overview 	| Reading for next week: Gertner, [The Idea Factory: Bell Labs and the Great Age of American Innovation](https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797) Chapter 6 |
 | 2/1  | Intervention			  										| Reading: Levy, [Hackers: Heroes of the Computer Revolution](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396) Chapter 10. Assignment Two: Museum Visit & Documentation |
 | 2/8  | Commercialization & Personalization, 1-on-1s					| Assignment Three feedback provided |
