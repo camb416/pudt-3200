@@ -37,7 +37,7 @@ Procedural, non-interactive projects may be presented, including static or motio
 
 Project Phases:
 
-4/5 Pitch (informal 10 min)
+4/5 Pitch (informal 5-10 min)
 - Declare Institution of interest ahead of time.
 - Present draft of creator statement.
 - Explain What you want to make: Medium, Format, Technology
