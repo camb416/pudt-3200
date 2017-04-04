@@ -46,4 +46,4 @@ Students will come away with a broad understanding of the history of computing a
 - [Assignment Five: Artist's Statement](assignment6.md)
 - [Assignment Six: Artist profile and gallery visit](assignment6.md)
 - [Assignment Seven: Expression](assignment7.md)
-- [Final Project: TBD](finalproject.md)
+- [Final Project: Transformation](finalproject.md)
